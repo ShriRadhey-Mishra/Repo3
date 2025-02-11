@@ -1,0 +1,1 @@
+alert("You have just used Repo3/JS_tst/script.js")
